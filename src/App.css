@@ -85,7 +85,7 @@ background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 
   font-weight: 600;
   text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
 }
-.weather-box .weather-bescription{
+.weather-box .weather-description{
   color: #fff;
   font-size: 20px;
     font-weight: 300;
